@@ -7,6 +7,6 @@ public class HW {
             i*=1.02;
         }
 
-        System.out.printf("%.0f%n", i);
+        System.out.printf("5年後本利合為 : %.0f%n", i);
     }
 }
